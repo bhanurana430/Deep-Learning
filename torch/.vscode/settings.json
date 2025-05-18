@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
         "figsize",
+        "fmnist",
         "fontsize",
         "imshow",
-        "suptitle"
+        "suptitle",
+        "torchinfo"
     ]
 }
